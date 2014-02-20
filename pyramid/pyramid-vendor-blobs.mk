@@ -46,6 +46,9 @@ PRODUCT_COPY_FILES += \
   vendor/htc/pyramid/proprietary/lib/libmmcamera_frameproc.so:system/lib/libmmcamera_frameproc.so \
   vendor/htc/pyramid/proprietary/lib/libmmcamera_rawchipproc.so:system/lib/libmmcamera_rawchipproc.so \
   vendor/htc/pyramid/proprietary/lib/libmmcamera_statsproc30.so:system/lib/libmmcamera_statsproc30.so \
+  vendor/htc/pyramid/proprietary/lib/libimage-jpeg-enc-omx-comp.so:system/lib/libimage-jpeg-enc-omx-comp.so \
+  vendor/htc/pyramid/proprietary/lib/libimage-omx-common.so:system/lib/libimage-omx-common.so \
+  vendor/htc/pyramid/proprietary/lib/libmmstillomx.so:system/lib/libmmstillomx.so \
   vendor/htc/pyramid/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
   vendor/htc/pyramid/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
   vendor/htc/pyramid/proprietary/lib/libmmmpo.so:system/lib/libmmmpo.so \
